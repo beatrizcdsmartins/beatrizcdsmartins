@@ -10,5 +10,3 @@ Me chamo Beatriz Martins, e sou apaixonada por tecnologia, café e um bom livro.
 
 <a href="https://www.flaticon.com/br/icones-gratis/instagram" title="instagram ícones">
 
-[![Bia's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizcdsmartins)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcdsmartins)](https://github.com/anuraghazra/github-readme-stats)
