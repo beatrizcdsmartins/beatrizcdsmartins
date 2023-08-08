@@ -7,8 +7,7 @@
 <img width="100%" src="./assets/readmeBia-github.gif">
 
 
-<p style=" background-color:#37005C; padding:40px; text-align:center; border-radius:20px;">Apaixonada por tecnologia, café e um bom livro.<br>
-Sou uma desenvolvedora front-end na constante busca pelo conhecimento, para em breve se tornar uma profissional Full-Stack.</p>
+<p style=" background-color:#37005C; padding:40px; text-align:center; border-radius:20px;">Apaixonada por tecnologia, café e um bom livro.<br></p>
 
 <h1>Sobre mim</h1>
 <div>
