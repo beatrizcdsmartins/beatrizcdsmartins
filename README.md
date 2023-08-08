@@ -29,14 +29,8 @@ Sou uma desenvolvedora front-end na constante busca pelo conhecimento, para em b
 
 
 <h1>Tecnologias</h1>
-<img src="./assets/icons8-html.svg">
-<img src="./assets/icons8-css.svg">
-<img src="./assets/icons8-js.svg">
-<img src="./assets/icons8-nativo-de-reagir.svg">
-<img src="./assets/icons8-photoshop.svg">
-<img src="./assets/icons8-wordpress.svg">
-<img src="./assets/icons8-git.svg">
-<img src="./assets/icons8-github (2).svg">
+
+<img src="./assets/icons8-html.svg"><img src="./assets/icons8-css.svg"><img src="./assets/icons8-js.svg"><img src="./assets/icons8-nativo-de-reagir.svg"><img src="./assets/icons8-photoshop.svg"><img src="./assets/icons8-wordpress.svg"><img src="./assets/icons8-git.svg"><img src="./assets/icons8-github (2).svg">
 
 
 
