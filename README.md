@@ -17,7 +17,7 @@ Sou uma desenvolvedora front-end na constante busca pelo conhecimento, para em b
 <div class="about-me">
 <img src="./assets/4images.gif">
 <ul>
-<li>❤️ Tenho 19 anos e estou no meu segundo ano de tecnologo em Análise e Desenvolvimento de Sistemas.</li>
+<li>❤️ Tenho 19 anos e estou no meu segundo ano do tecnologo em Análise e Desenvolvimento de Sistemas.</li>
 <li>🎹 Meu hobby preferido é o piano.</li>
 <li>🎵 Amo músicas clássicas.</li>
 <li>👨‍💻 Desenvolvedora front-end, lapidando os conhecimentos e adquirindo novos para se tornar full-stack.</li>
@@ -28,33 +28,16 @@ Sou uma desenvolvedora front-end na constante busca pelo conhecimento, para em b
 </div>
 
 
-
-
-
 <h1>Tecnologias</h1>
-<div class="container">
-<div class="techs">
-<div class="boxs">
 <img src="./assets/icons8-html.svg">
-
 <img src="./assets/icons8-css.svg">
-
 <img src="./assets/icons8-js.svg">
-
 <img src="./assets/icons8-nativo-de-reagir.svg">
-
-</div>
-
-<div class="boxs">
 <img src="./assets/icons8-photoshop.svg">
-
 <img src="./assets/icons8-wordpress.svg">
-
 <img src="./assets/icons8-git.svg">
-
 <img src="./assets/icons8-github (2).svg">
 
-</div>
 
 
 
