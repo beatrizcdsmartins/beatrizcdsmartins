@@ -1,7 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./styles.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,800;1,100;1,200;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
 <div style="display:flex;align-items:center; gap:10px;">
 <p>Working at</p> <img href="https://soulrocket.com.br" width="200px" src="./assets/A816AF32-88C8-48BE-99A5-6D25BD8F8207.GIF">
 </div>
