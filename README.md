@@ -14,31 +14,40 @@
 Sou uma desenvolvedora front-end na constante busca pelo conhecimento, para em breve se tornar uma profissional Full-Stack.</p>
 
 <h1>Sobre mim</h1>
-<div class="about-me">
+<div>
 <img src="./assets/4images.gif">
-<ul>
-<li>❤️ Tenho 19 anos e estou no meu segundo ano do tecnologo em Análise e Desenvolvimento de Sistemas.</li>
-<li>🎹 Meu hobby preferido é o piano.</li>
-<li>🎵 Amo músicas clássicas.</li>
-<li>👨‍💻 Desenvolvedora front-end, lapidando os conhecimentos e adquirindo novos para se tornar full-stack.</li>
-<li>💼 Tenho experiência em HTML, CSS e JavaScript, que são as bases do meu trabalho criativo e interativo, e também evoluindo no React.</li>
-<li>🎨Experiência com Photoshop a mais de 3 anos.</li>
-</ul>
+
+<div>
+-❤️ Tenho 19 anos e estou no segundo ano do tecnólogo em Análise e Desenvolvimento de Sistemas.
+
+-🎹 Meu hobby preferido é tocar piano.
+
+-🎵 Amo música clássica.
+
+-👨‍💻 Sou uma desenvolvedora front-end, aprimorando meus conhecimentos e buscando adquirir novos para me tornar full-stack.
+
+-💼 Tenho experiência em HTML, CSS e JavaScript, que são as bases do meu trabalho criativo e interativo, e estou em constante evolução com React.
+
+-🎨 Possuo mais de 3 anos de experiência com Photoshop.
+
+  
+</div>
+
 
 </div>
+
+
 
 
 <h1>Tecnologias</h1>
-
-<img src="./assets/icons8-html.svg"><img src="./assets/icons8-css.svg"><img src="./assets/icons8-js.svg"><img src="./assets/icons8-nativo-de-reagir.svg"><img src="./assets/icons8-photoshop.svg"><img src="./assets/icons8-wordpress.svg"><img src="./assets/icons8-git.svg"><img src="./assets/icons8-github (2).svg">
-
-
-
-
+<div align="center">
+<div align="left">
+<img  width="40px" src="./assets/icons8-html.svg"><img src="./assets/icons8-css.svg"><img src="./assets/icons8-js.svg"><img src="./assets/icons8-nativo-de-reagir.svg"><img src="./assets/icons8-photoshop.svg"><img src="./assets/icons8-wordpress.svg"><img src="./assets/icons8-git.svg"><img src="./assets/icons8-github (2).svg">
+</div>
+<img align="right" class="code-gif" src="./assets/Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif">
+  
 </div>
 
-<img class="code-gif" src="./assets/Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif">
 
 
-</div>
 
