@@ -10,11 +10,10 @@
 <p style=" background-color:#37005C; padding:40px; text-align:center; border-radius:20px;">Apaixonada por tecnologia, café e um bom livro.<br></p>
 
 <h1>Sobre mim</h1>
+
 -❤️ Tenho 19 anos e estou no segundo ano do tecnólogo em Análise e Desenvolvimento de Sistemas.
 
--🎹 Meu hobby preferido é tocar piano.
-
--🎵 Amo música clássica.
+-🎵 Apaixonada por músicas clássicas e amo tocar piano.
 
 -👨‍💻 Sou uma desenvolvedora front-end, aprimorando meus conhecimentos e buscando adquirir novos para me tornar full-stack.
 
