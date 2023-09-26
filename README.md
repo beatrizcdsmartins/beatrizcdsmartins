@@ -34,7 +34,7 @@
 <h1>Tecnologias</h1>
 <div align="center">
 <div align="left">
-<img  width="40px" src="./assets/icons8-html.svg"><img src="./assets/icons8-css.svg"><img src="./assets/icons8-js.svg"><img src="./assets/icons8-nativo-de-reagir.svg"><img src="./assets/icons8-photoshop.svg"><img src="./assets/icons8-wordpress.svg"><img src="./assets/icons8-git.svg"><img src="./assets/icons8-github (2).svg">
+<img  width="40px" src="./assets/icons8-html.svg"><img width="40px" src="./assets/icons8-css.svg"><img width="40px" src="./assets/icons8-js.svg"><img width="40px" src="./assets/icons8-nativo-de-reagir.svg"><img width="40px" src="./assets/icons8-photoshop.svg"><img width="40px" src="./assets/icons8-wordpress.svg"><img width="40px" src="./assets/icons8-git.svg"><img  width="40px" src="./assets/icons8-github (2).svg">
 </div>
 <img align="right" class="code-gif" src="./assets/Vídeo-sem-título-‐-Feito-com-o-Clipchamp.gif">
   
